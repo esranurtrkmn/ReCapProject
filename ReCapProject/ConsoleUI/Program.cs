@@ -11,7 +11,7 @@ namespace ConsoleUI
         {
             CarManager carManager = new CarManager(new EFCarDal());
 
-            foreach (var car in carManager.GetAll())
+            foreach (var car in carManager.GetAllByColorId(3))
             {
                 Console.WriteLine(car.Description);
                 
