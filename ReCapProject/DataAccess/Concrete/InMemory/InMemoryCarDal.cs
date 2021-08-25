@@ -7,18 +7,18 @@ using System.Text;
 
 namespace DataAccess.Concrete.InMemory
 {
-    public class InMemoryCarDal : ICarDal
+    public class InMemoryCarDal 
     {
         List<Car> _cars;
 
         public InMemoryCarDal()
         {
-            _cars = new List<Car>
+           /* _cars = new List<Car>
             {
                 new Car{CarId=1, BrandId=2 , ColorId=3, DailyPrice=50000, Description="honda yeni", ModelYear=2010 },
                 new Car{CarId=1, BrandId=2 , ColorId=3, DailyPrice=50000, Description="eski model", ModelYear=2000 },
                 new Car{CarId=1, BrandId=2 , ColorId=3, DailyPrice=50000, Description="yeni araba", ModelYear=2019 }
-            };
+            };*/
         }
         public void Add(Car car)
         {
@@ -40,18 +40,18 @@ namespace DataAccess.Concrete.InMemory
             return _cars;
         }
 
-        public List<Car> GetAllByColor(int ColorId)
+        /*public List<Car> GetAllByColor(int ColorId)
         {
             return _cars.Where(p => p.ColorId == ColorId).ToList();
         }
-
+        */
         public void Update(Car car)
         {
             //gönderdiğim car id sine sahip olan listedeki car ı bul.
             Car carToUpdate = _cars.SingleOrDefault(c => c.CarId == car.CarId);
 
-            carToUpdate.ColorId = car.ColorId;
-            carToUpdate.BrandId = car.BrandId;
+            /*carToUpdate.ColorId = car.ColorId;
+            carToUpdate.BrandId = car.BrandId;*/
             carToUpdate.DailyPrice = car.DailyPrice;
             carToUpdate.Description = car.Description;
         }

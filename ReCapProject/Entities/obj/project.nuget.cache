@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9MX10to1yQFu0zf2jezEbmexWTgn63+wpn8Yge1fb6dZKHSn9jTlvDcEdoQZnPcQ6p8zETgDAy26iP2Im+/vqQ==",
+  "dgSpecHash": "+DalwZYZEFlo+L3mJqxUEfd2TJEDGr6Qsi8YC/5a3dBqcr4DqusdEw9jwnjHps/h9xVndXDgdEcX3hgCcRIcvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\turkm\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\ReCapProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

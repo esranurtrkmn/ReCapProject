@@ -11,3 +11,16 @@ C:\Users\turkm\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\Data
 C:\Users\turkm\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\turkm\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\turkm\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
