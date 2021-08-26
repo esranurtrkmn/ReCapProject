@@ -18,3 +18,6 @@ C:\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
 C:\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\ReCapProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\ReCapProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete

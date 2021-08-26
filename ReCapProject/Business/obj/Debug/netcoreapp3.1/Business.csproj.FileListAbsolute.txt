@@ -28,3 +28,5 @@ C:\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInpu
 C:\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\ReCapProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\ReCapProject\Business\bin\Debug\netcoreapp3.1\Core.pdb

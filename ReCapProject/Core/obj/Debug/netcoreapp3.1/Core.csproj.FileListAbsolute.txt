@@ -1,0 +1,10 @@
+C:\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.pdb

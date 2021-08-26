@@ -80,3 +80,5 @@ C:\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dl
 C:\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
