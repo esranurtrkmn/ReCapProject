@@ -1,4 +1,5 @@
-﻿using Entities.Concrete;
+﻿using Core.Utilities.Results;
+using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,5 +11,7 @@ namespace Business.Abstract
         List<Brand> GetAll();
 
         Brand GetById(int id);
+
+        IResult Add(Brand brand);
     }
 }

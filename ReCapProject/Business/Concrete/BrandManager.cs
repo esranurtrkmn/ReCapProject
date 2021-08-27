@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
@@ -14,6 +15,12 @@ namespace Business.Concrete
         public BrandManager(IBrandDal brandDal)
         {
             _brandDal = brandDal;
+        }
+
+        public IResult Add(Brand brand)
+        {
+            _brandDal.Add(brand);
+            return new SuccessResult("Marka Eklendi");
         }
 
         public List<Brand> GetAll()
